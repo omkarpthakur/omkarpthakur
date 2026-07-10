@@ -18,16 +18,6 @@
 
 ---
 
-### 🔭 Featured Projects
-
-**[Optopus](https://github.com/omkarpthakur)**
-No-code visual MILP optimization platform for supply chain and logistics. Flutter desktop frontend (Riverpod, PlutoGrid, flow_canvas), Python FastAPI backend, Pyomo/GLPK/CBC solvers, Supabase for persistence, and OSRM/OpenStreetMap for real-road routing. Presented at TechNovation 2026 and in pursuit of a Scopus-indexed publication.
-
-**Game of Apes**
-A public iterated prisoner's dilemma simulation exploring cooperation and strategy dynamics through game theory.
-
----
-
 ### 🧰 Tech Stack
 
 **Languages:** Python, Dart, C++, SQL
@@ -49,6 +39,6 @@ A public iterated prisoner's dilemma simulation exploring cooperation and strate
 
 ### 📫 Connect With Me
 
-- LinkedIn: *(add your link)*
-- Email: *(add your email)*
+- LinkedIn: *https://www.linkedin.com/in/omkar-thakur-73376b256/*
+- Email: *omkardec2004@gmail.com*
 - Portfolio: *(add your link if you have one)*
